@@ -1791,6 +1791,10 @@ p.count-text {
 	.our-team {
 		margin-bottom: 30px;
 	}
+	.map {
+		width: 50%; 
+		height: 50%;
+	}
 }
 
 
